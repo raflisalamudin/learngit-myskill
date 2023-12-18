@@ -1,3 +1,4 @@
-name : rafli
+name : Rafli
 age  : 23
 work : Developer
+city : Jakarta
